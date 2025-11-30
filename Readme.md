@@ -84,9 +84,7 @@ pip install -i https://test.pypi.org/simple/ TrojanHorses
 
 Trojan-Horses requires a ChemicalDice API key to generate molecular embeddings.
 
-👉 **Request API Access Here:**
-
-https://chemicaldice.io/access-request (example — replace with real link)
+👉 **[Request ChemicalDice API Access](https://forms.gle/gPtd8Wqw4akd9Awt5)**
 
 Enter your:
 
