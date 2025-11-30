@@ -1,5 +1,18 @@
 # ♞ Trojan-Horses
+<br>
+<div align="center">
+  <img src="Images/inertrope.png" alt="Inertrope" width="750">
+</div>
+<br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+  <img src="https://img.shields.io/badge/docs-passing-green">
+  <img src="https://img.shields.io/badge/python-3.9+-blue">
+  <a href="https://github.com/the-ahuja-lab/inertrope">
+    <img src="https://img.shields.io/badge/Code-Source-black">
+  </a>
+</p>
 ### *Mechanism-Aware Deep Learning for Antioxidant Activity Prediction*
 
 **Trojan-Horses** is a *mechanism-aware computational framework* for antioxidant screening that merges **deep biological reasoning**, **chemical intelligence**, and **multitask learning** to predict antioxidant activity with high fidelity and mechanistic interpretability.
