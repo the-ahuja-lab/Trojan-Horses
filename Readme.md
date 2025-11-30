@@ -1,7 +1,7 @@
 # ♞ Trojan-Horses
 <br>
 <div align="center">
-  <img src="Images/TrojanHorses.png" alt="TrojanHorses" width="750">
+  <img src="images/TrojanHorses.png" alt="TrojanHorses" width="750">
 </div>
 <br>
 
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Code-Source-black">
   </a>
 </p>
+
 ### *Mechanism-Aware Deep Learning for Antioxidant Activity Prediction*
 
 **Trojan-Horses** is a *mechanism-aware computational framework* for antioxidant screening that merges **deep biological reasoning**, **chemical intelligence**, and **multitask learning** to predict antioxidant activity with high fidelity and mechanistic interpretability.
