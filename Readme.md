@@ -1,7 +1,7 @@
 # ♞ Trojan-Horses
 <br>
 <div align="center">
-  <img src="Images/inertrope.png" alt="Inertrope" width="750">
+  <img src="Images/TrojanHorses.png" alt="TrojanHorses" width="750">
 </div>
 <br>
 
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg">
   <img src="https://img.shields.io/badge/docs-passing-green">
   <img src="https://img.shields.io/badge/python-3.9+-blue">
-  <a href="https://github.com/the-ahuja-lab/inertrope">
+  <a href="https://github.com/the-ahuja-lab/Trojan-Horses">
     <img src="https://img.shields.io/badge/Code-Source-black">
   </a>
 </p>
