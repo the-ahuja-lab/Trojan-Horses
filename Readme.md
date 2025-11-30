@@ -1,7 +1,7 @@
 # ♞ Trojan-Horses
 <br>
 <div align="center">
-  <img src="image/TrojanHorses.png" alt="TrojanHorses" width="750">
+  <img src="image/TrojanHorses.png" alt="TrojanHorses" width="650">
 </div>
 <br>
 
