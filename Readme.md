@@ -49,7 +49,6 @@ Both models operate on **ChemicalDice embeddings**, a powerful SMILES-to-vector 
 
 ---
 
----
 
 # ✨ **Key Features**
 
