@@ -88,7 +88,7 @@ Both models operate on **ChemicalDice embeddings**, a powerful SMILES-to-vector 
 ### Install from **TestPyPI**:
 
 ```bash
-pip install -i https://test.pypi.org/simple/ TrojanHorses
+pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple TrojanHorses
 
 ```
 
